@@ -8,3 +8,4 @@ This section contain my python learning track.
 * comments, indentation and statements.
 * variable and data type.
 * Standard Input and Output.
+* Operators.
