@@ -4,3 +4,4 @@
 This section contain my python learning track.
 * Keyword and Identifier.
 * comments, indentation and statements-checkpoint.
+* variable and data type-checkpoint.
