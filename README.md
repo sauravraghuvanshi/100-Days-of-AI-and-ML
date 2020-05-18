@@ -10,3 +10,4 @@ This section contain my python learning track.
 * Standard Input and Output.
 * Operators.
 * While loop.
+* For loop
