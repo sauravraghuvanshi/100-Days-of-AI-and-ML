@@ -11,6 +11,6 @@ This section contain my python learning track.
 * Operators.
 * While loop.
 * For loop.
-* Break and Continue Statement.\
+* Break and Continue Statement.
 
 ### Python Data Structure:
