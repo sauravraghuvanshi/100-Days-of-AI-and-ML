@@ -1,7 +1,7 @@
 # AI-and-ML-Complete-Learning
  
 ## Python
-This section contain my python learning track.
+**This section contain my python learning track.**
 
 ### Python Basics:
 * Keyword and Identifier.
