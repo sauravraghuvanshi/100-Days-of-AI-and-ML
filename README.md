@@ -3,7 +3,7 @@
 ## Python
 This section contain my python learning track.
 
-### Python Basics
+### Python Basics:
 * Keyword and Identifier.
 * comments, indentation and statements.
 * variable and data type.
@@ -11,4 +11,6 @@ This section contain my python learning track.
 * Operators.
 * While loop.
 * For loop.
-* Break and Continue Statement.
+* Break and Continue Statement.\
+
+### Python Data Structure:
