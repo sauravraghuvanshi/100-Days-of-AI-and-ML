@@ -18,4 +18,8 @@
 * Tuple.
 * Sets.
 * Dictionary.
-* String
+* String.
+
+### Python Functions, Packages, Input/Output, Exception Handling and Debugging:
+* Introduction to Functions.
+
