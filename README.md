@@ -18,3 +18,4 @@
 * Tuple.
 * Sets.
 * Dictionary.
+* String
