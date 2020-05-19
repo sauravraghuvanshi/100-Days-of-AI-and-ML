@@ -16,4 +16,5 @@
 ### Python Data Structure:
 * List.
 * Tuple.
-* Set.
+* Sets.
+* Dictionary.
