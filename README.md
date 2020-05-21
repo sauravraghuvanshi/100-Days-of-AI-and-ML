@@ -24,5 +24,6 @@
 * Introduction to Functions.
 * Types of Function.
 * Function Arguments.
+* Recursive Function.
 
 
