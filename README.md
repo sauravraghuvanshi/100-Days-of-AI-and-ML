@@ -23,5 +23,6 @@
 ### Python Functions, Packages, Input/Output, Exception Handling and Debugging:
 * Introduction to Functions.
 * Types of Function.
+* Function Arguments.
 
 
