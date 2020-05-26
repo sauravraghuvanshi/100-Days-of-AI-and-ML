@@ -28,3 +28,5 @@
 * Lambda Functions.
 * Modulus.
 * Package.
+* File input/output.
+* Exception Handling.
