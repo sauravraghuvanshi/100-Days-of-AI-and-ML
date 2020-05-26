@@ -26,5 +26,5 @@
 * Function Arguments.
 * Recursive Functions.
 * Lambda Functions.
-* Modulus Function.
+* Modulus.
 * Package.
