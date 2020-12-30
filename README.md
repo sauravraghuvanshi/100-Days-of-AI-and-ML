@@ -1,4 +1,5 @@
 # AI-and-ML-Complete-Learning
+This repository contain my learning approach from AI & ML from basics to advance including python learning also.
  
 ## Python
 **This section contain my python learning track.**
